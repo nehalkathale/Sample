@@ -8,12 +8,7 @@
     "courseId": "ITSC-3181",
     "courseName": "Intro to Comp Architecture",
     "courseDepartment": "Computing and Informatics",
-    "prerequisites": {
-        "courseId" : "ITSC-1213" ,
-        "courseName" : "Introduction to Computer Science II",
-        "courseDepartment": "Computing and Informatics",
-        "prerequisites": "NONE"
-    }
+    "prerequisites": "NONE"
 },{
     "courseId" : "ITSC-1213" ,
     "courseName" : "Introduction to Computer Science II",
@@ -23,11 +18,7 @@
     "courseId" : "ITSC-4155" ,
     "courseName" : "Software Development Projects",
     "courseDepartment" : "Computing and Informatics",
-    "prerequisites" : {
-        "courseId" : "ITSC-3155" ,
-        "courseName" : "Software Engineering",
-        "courseDepartment" : "Computing and Informatics",
-        "prerequisites" : "NONE"
-    }
+    "prerequisites" : "NONE"
+   
 }
 ]
